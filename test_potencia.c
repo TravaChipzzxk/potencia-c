@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "function_potencia.c"
 
 int calcule_a_potencia(int base, int expoente);
 
